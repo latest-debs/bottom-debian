@@ -1,0 +1,8 @@
+# Package definition for bottom
+
+package_name: bottom
+github_repo: ClementTsang/bottom
+artifact_format: tar.gz
+description: "A cross-platform graphical process/system monitor with a customizable interface"
+
+# Build for all Debian suites and all supported architectures.
