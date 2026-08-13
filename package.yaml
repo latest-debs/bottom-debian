@@ -2,6 +2,7 @@
 
 package_name: bottom
 github_repo: ClementTsang/bottom
+license: MIT
 artifact_format: tar.gz
 description: "A cross-platform graphical process/system monitor with a customizable interface"
 
